@@ -9,7 +9,7 @@ char * AUTHOR_AUTHORSHIP = (char *) "I acknowledge that I have worked on this as
 #include <string.h>
 //#include "code.c"
 //#include "code2.c"
-#include "math_ops.c"
+#include "include/math_ops.c"
 
 //#include "tests\tests.c"
 // ----------------- MAIN PROGRAM -----------------
