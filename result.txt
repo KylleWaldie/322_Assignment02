@@ -1,0 +1,396 @@
+Folder PATH listing
+Volume serial number is 0A98-96B0
+C:.
+³   .gitignore
+³   Makefile
+³   README.md
+³   result.txt
+³   
+ÃÄÄÄ.git
+³   ³   COMMIT_EDITMSG
+³   ³   config
+³   ³   description
+³   ³   HEAD
+³   ³   index
+³   ³   packed-refs
+³   ³   
+³   ÃÄÄÄhooks
+³   ³       applypatch-msg.sample
+³   ³       commit-msg.sample
+³   ³       fsmonitor-watchman.sample
+³   ³       post-update.sample
+³   ³       pre-applypatch.sample
+³   ³       pre-commit.sample
+³   ³       pre-merge-commit.sample
+³   ³       pre-push.sample
+³   ³       pre-rebase.sample
+³   ³       pre-receive.sample
+³   ³       prepare-commit-msg.sample
+³   ³       push-to-checkout.sample
+³   ³       sendemail-validate.sample
+³   ³       update.sample
+³   ³       
+³   ÃÄÄÄinfo
+³   ³       exclude
+³   ³       
+³   ÃÄÄÄlogs
+³   ³   ³   HEAD
+³   ³   ³   
+³   ³   ÀÄÄÄrefs
+³   ³       ÃÄÄÄheads
+³   ³       ³       main
+³   ³       ³       
+³   ³       ÀÄÄÄremotes
+³   ³           ÀÄÄÄorigin
+³   ³                   HEAD
+³   ³                   main
+³   ³                   
+³   ÃÄÄÄobjects
+³   ³   ÃÄÄÄ04
+³   ³   ³       50b78b2bb63dec944ac234279e922d333c4cde
+³   ³   ³       
+³   ³   ÃÄÄÄ0c
+³   ³   ³       71d3d53084844b6e43f0bee57da7ff8de93706
+³   ³   ³       
+³   ³   ÃÄÄÄ10
+³   ³   ³       c7c1cf2a9c3daf27c7d1b9aa52302dbb2359fb
+³   ³   ³       
+³   ³   ÃÄÄÄ11
+³   ³   ³       0462f57fbefd84af79801625e5d1850955590b
+³   ³   ³       
+³   ³   ÃÄÄÄ15
+³   ³   ³       3e041db5c93f84646d485e96d4f152a945eece
+³   ³   ³       
+³   ³   ÃÄÄÄ4a
+³   ³   ³       c0ebaa11a892afe5a2569de7af7f8f9dec3b95
+³   ³   ³       
+³   ³   ÃÄÄÄ56
+³   ³   ³       9f54a1a7e6662ef4a0207169fb12dbf10307b0
+³   ³   ³       
+³   ³   ÃÄÄÄ70
+³   ³   ³       7b984c64ba35001fc1871c9fc8596f3116086b
+³   ³   ³       
+³   ³   ÃÄÄÄ7a
+³   ³   ³       d63f116a69b7d5f83ea6bd8c3dbe9f33077bc0
+³   ³   ³       
+³   ³   ÃÄÄÄ95
+³   ³   ³       808caf3a3820afb6168e07dbfde6dfec531c95
+³   ³   ³       
+³   ³   ÃÄÄÄ99
+³   ³   ³       0c3084cd58394df417629c31b5f4399faa820d
+³   ³   ³       
+³   ³   ÃÄÄÄb4
+³   ³   ³       a713c10575ca70e3c371ee1c95784a3c9dec63
+³   ³   ³       
+³   ³   ÃÄÄÄbe
+³   ³   ³       8cd30ac7a9c99c6a5da6daaf3f5a66b88e4a74
+³   ³   ³       
+³   ³   ÃÄÄÄc6
+³   ³   ³       73399d3e90a438a1090d985af0dec54bc648e3
+³   ³   ³       
+³   ³   ÃÄÄÄd1
+³   ³   ³       00c378efc6caef4a59b350d04d6dc8f90a9ae4
+³   ³   ³       
+³   ³   ÃÄÄÄd7
+³   ³   ³       af58034e3c01055136547c2b041dec9e676892
+³   ³   ³       
+³   ³   ÃÄÄÄdf
+³   ³   ³       07cbe8846666bf05525b83bc7418a289309d6b
+³   ³   ³       
+³   ³   ÃÄÄÄe2
+³   ³   ³       5503fadcfbf535a75866a9f4f02df48539d9f7
+³   ³   ³       
+³   ³   ÃÄÄÄe9
+³   ³   ³       fa45b3ce4739d29c85a56d8adfaf1ce5c60151
+³   ³   ³       
+³   ³   ÃÄÄÄf0
+³   ³   ³       0a0ca3e03fd78358426cbc6a33b9cae3777da7
+³   ³   ³       
+³   ³   ÃÄÄÄinfo
+³   ³   ÀÄÄÄpack
+³   ³           pack-3da60aa43795df5a48b2b78df2c5f204cad1a5f0.idx
+³   ³           pack-3da60aa43795df5a48b2b78df2c5f204cad1a5f0.pack
+³   ³           pack-3da60aa43795df5a48b2b78df2c5f204cad1a5f0.rev
+³   ³           
+³   ÀÄÄÄrefs
+³       ÃÄÄÄheads
+³       ³       main
+³       ³       
+³       ÃÄÄÄremotes
+³       ³   ÀÄÄÄorigin
+³       ³           HEAD
+³       ³           main
+³       ³           
+³       ÀÄÄÄtags
+ÃÄÄÄ.vscode
+³       launch.json
+³       settings.json
+³       tasks.json
+³       
+ÃÄÄÄinclude
+³       math_ops.c
+ÃÄÄÄobj
+ÃÄÄÄsrc
+³       main.c
+³       
+ÀÄÄÄtests
+        tests.c
+        unity.c
+        unity.h
+        unity_internals.h
+        
+* commit 10c7c1cf2a9c3daf27c7d1b9aa52302dbb2359fb
+| Author: Kylle Waldie <wldkylle@gmail.com>
+| Date:   Tue Sep 16 00:49:31 2025 -0600
+| 
+|     Added two more ignore staements
+| 
+* commit e25503fadcfbf535a75866a9f4f02df48539d9f7
+| Author: Kylle Waldie <wldkylle@gmail.com>
+| Date:   Tue Sep 16 00:46:39 2025 -0600
+| 
+|     Added include statement to main file
+| 
+* commit c673399d3e90a438a1090d985af0dec54bc648e3
+| Author: Kylle Waldie <wldkylle@gmail.com>
+| Date:   Tue Sep 16 00:46:03 2025 -0600
+| 
+|     Made changes to the Make file
+| 
+* commit f00a0ca3e03fd78358426cbc6a33b9cae3777da7
+| Author: Kylle Waldie <kwaldie@mtech.edu>
+| Date:   Fri Sep 12 10:37:31 2025 -0600
+| 
+|     Deleted code2.c after combining it into math_ops.c
+| 
+* commit be8cd30ac7a9c99c6a5da6daaf3f5a66b88e4a74
+| Author: Kylle Waldie <kwaldie@mtech.edu>
+| Date:   Fri Sep 12 10:36:52 2025 -0600
+| 
+|     Deleted code.c after combining it into math_ops.c
+| 
+* commit df07cbe8846666bf05525b83bc7418a289309d6b
+| Author: Kylle Waldie <kwaldie@mtech.edu>
+| Date:   Fri Sep 12 10:31:58 2025 -0600
+| 
+|     Added /obj/ and /bin/ to gitignore file
+| 
+* commit 569f54a1a7e6662ef4a0207169fb12dbf10307b0
+| Author: Kylle Waldie <kwaldie@mtech.edu>
+| Date:   Fri Sep 12 10:31:08 2025 -0600
+| 
+|     Put all math functions in one file
+| 
+* commit ac72030664d874b40f7c25263d11d634e65fb5bb
+| Author: jpach-cs <jlpach@outlook.com>
+| Date:   Fri Sep 12 07:40:11 2025 -0600
+| 
+|     Update README.md
+| 
+* commit 6ef4aa973d153f528af36c61992f6bc19d9e25b0
+| Author: jpach-cs <jlpach@outlook.com>
+| Date:   Fri Sep 12 07:38:26 2025 -0600
+| 
+|     Update README.md
+| 
+* commit d0d54cb34b91099cbd941b6689a8b61c7e997d6b
+| Author: jpach-cs <jlpach@outlook.com>
+| Date:   Fri Sep 12 07:37:19 2025 -0600
+| 
+|     Update README.md
+| 
+* commit 33d73a84aaedfad70cf066c4235bff9f83400aa3
+| Author: jpach-cs <jlpach@outlook.com>
+| Date:   Fri Sep 12 07:36:42 2025 -0600
+| 
+|     Create README.md
+| 
+* commit fb42b831ea271382743302f3607ab2fd105726c7
+| Author: Jacob Pach <jpach@mtech.edu>
+| Date:   Fri Sep 12 07:15:01 2025 -0600
+| 
+|     fix .gitignore
+| 
+* commit 9ed4bb1b5c0103680a0ca0a104309428c2143f7f
+| Author: Jacob Pach <jpach@mtech.edu>
+| Date:   Fri Sep 12 07:13:24 2025 -0600
+| 
+|     add tests/
+|   
+*   commit 3d7e2d6be82361851d3dc1afaacafdf5dbe7e06b
+|\  Merge: faee1ad 17de3fc
+| | Author: Jacob Pach <jpach@mtech.edu>
+| | Date:   Fri Sep 12 07:12:25 2025 -0600
+| | 
+| |     Merge branch 'fixbug2'
+| | 
+| * commit 17de3fc514c17cb4892e8d678b41d3df9d3f1526
+| | Author: Jacob Pach <jpach@mtech.edu>
+| | Date:   Fri Sep 12 07:06:33 2025 -0600
+| | 
+| |     add code2.c
+| |   
+* |   commit faee1ad92a95dcdcc35ffd25c2823cedc70a9fb8
+|\ \  Merge: 7410bbd 7c3ff76
+| | | Author: Jacob Pach <jpach@mtech.edu>
+| | | Date:   Fri Sep 12 07:12:12 2025 -0600
+| | | 
+| | |     Merge branch 'fixbug'
+| | | 
+| * | commit 7c3ff76af2f1245c5be58ee06cd0a6f43f5b76e4
+| | | Author: Jacob Pach <jpach@mtech.edu>
+| | | Date:   Fri Sep 12 07:07:11 2025 -0600
+| | | 
+| | |     add code.c
+| | | 
+| * | commit 1559b41825849b541956a3549332114b3e151be8
+| | | Author: Jacob Pach <jpach@mtech.edu>
+| | | Date:   Fri Sep 12 07:03:12 2025 -0600
+| | | 
+| | |     add ./vscode for vsc
+| | | 
+* | | commit 7410bbd7b220139649e0e2b08b48c448c393d07f
+| |/  Author: Jacob Pach <jpach@mtech.edu>
+|/|   Date:   Fri Sep 12 07:11:00 2025 -0600
+| |   
+| |       add .gitignore
+| | 
+* | commit 2db5c5927ad8031763f120ef983a580a35ad4137
+|/  Author: Jacob Pach <jpach@mtech.edu>
+|   Date:   Fri Sep 12 07:04:36 2025 -0600
+|   
+|       move main.c to /src
+| 
+* commit ceebb9b545b7469b488918e048b1cd936def0533
+  Author: Jacob Pach <jpach@mtech.edu>
+  Date:   Fri Sep 12 07:01:45 2025 -0600
+  
+      add main.c, makefile
+https://github.com/KylleWaldie/322_Assignment02.git
+* commit 10c7c1cf2a9c3daf27c7d1b9aa52302dbb2359fb
+| Author: Kylle Waldie <wldkylle@gmail.com>
+| Date:   Tue Sep 16 00:49:31 2025 -0600
+| 
+|     Added two more ignore staements
+| 
+* commit e25503fadcfbf535a75866a9f4f02df48539d9f7
+| Author: Kylle Waldie <wldkylle@gmail.com>
+| Date:   Tue Sep 16 00:46:39 2025 -0600
+| 
+|     Added include statement to main file
+| 
+* commit c673399d3e90a438a1090d985af0dec54bc648e3
+| Author: Kylle Waldie <wldkylle@gmail.com>
+| Date:   Tue Sep 16 00:46:03 2025 -0600
+| 
+|     Made changes to the Make file
+| 
+* commit f00a0ca3e03fd78358426cbc6a33b9cae3777da7
+| Author: Kylle Waldie <kwaldie@mtech.edu>
+| Date:   Fri Sep 12 10:37:31 2025 -0600
+| 
+|     Deleted code2.c after combining it into math_ops.c
+| 
+* commit be8cd30ac7a9c99c6a5da6daaf3f5a66b88e4a74
+| Author: Kylle Waldie <kwaldie@mtech.edu>
+| Date:   Fri Sep 12 10:36:52 2025 -0600
+| 
+|     Deleted code.c after combining it into math_ops.c
+| 
+* commit df07cbe8846666bf05525b83bc7418a289309d6b
+| Author: Kylle Waldie <kwaldie@mtech.edu>
+| Date:   Fri Sep 12 10:31:58 2025 -0600
+| 
+|     Added /obj/ and /bin/ to gitignore file
+| 
+* commit 569f54a1a7e6662ef4a0207169fb12dbf10307b0
+| Author: Kylle Waldie <kwaldie@mtech.edu>
+| Date:   Fri Sep 12 10:31:08 2025 -0600
+| 
+|     Put all math functions in one file
+| 
+* commit ac72030664d874b40f7c25263d11d634e65fb5bb
+| Author: jpach-cs <jlpach@outlook.com>
+| Date:   Fri Sep 12 07:40:11 2025 -0600
+| 
+|     Update README.md
+| 
+* commit 6ef4aa973d153f528af36c61992f6bc19d9e25b0
+| Author: jpach-cs <jlpach@outlook.com>
+| Date:   Fri Sep 12 07:38:26 2025 -0600
+| 
+|     Update README.md
+| 
+* commit d0d54cb34b91099cbd941b6689a8b61c7e997d6b
+| Author: jpach-cs <jlpach@outlook.com>
+| Date:   Fri Sep 12 07:37:19 2025 -0600
+| 
+|     Update README.md
+| 
+* commit 33d73a84aaedfad70cf066c4235bff9f83400aa3
+| Author: jpach-cs <jlpach@outlook.com>
+| Date:   Fri Sep 12 07:36:42 2025 -0600
+| 
+|     Create README.md
+| 
+* commit fb42b831ea271382743302f3607ab2fd105726c7
+| Author: Jacob Pach <jpach@mtech.edu>
+| Date:   Fri Sep 12 07:15:01 2025 -0600
+| 
+|     fix .gitignore
+| 
+* commit 9ed4bb1b5c0103680a0ca0a104309428c2143f7f
+| Author: Jacob Pach <jpach@mtech.edu>
+| Date:   Fri Sep 12 07:13:24 2025 -0600
+| 
+|     add tests/
+|   
+*   commit 3d7e2d6be82361851d3dc1afaacafdf5dbe7e06b
+|\  Merge: faee1ad 17de3fc
+| | Author: Jacob Pach <jpach@mtech.edu>
+| | Date:   Fri Sep 12 07:12:25 2025 -0600
+| | 
+| |     Merge branch 'fixbug2'
+| | 
+| * commit 17de3fc514c17cb4892e8d678b41d3df9d3f1526
+| | Author: Jacob Pach <jpach@mtech.edu>
+| | Date:   Fri Sep 12 07:06:33 2025 -0600
+| | 
+| |     add code2.c
+| |   
+* |   commit faee1ad92a95dcdcc35ffd25c2823cedc70a9fb8
+|\ \  Merge: 7410bbd 7c3ff76
+| | | Author: Jacob Pach <jpach@mtech.edu>
+| | | Date:   Fri Sep 12 07:12:12 2025 -0600
+| | | 
+| | |     Merge branch 'fixbug'
+| | | 
+| * | commit 7c3ff76af2f1245c5be58ee06cd0a6f43f5b76e4
+| | | Author: Jacob Pach <jpach@mtech.edu>
+| | | Date:   Fri Sep 12 07:07:11 2025 -0600
+| | | 
+| | |     add code.c
+| | | 
+| * | commit 1559b41825849b541956a3549332114b3e151be8
+| | | Author: Jacob Pach <jpach@mtech.edu>
+| | | Date:   Fri Sep 12 07:03:12 2025 -0600
+| | | 
+| | |     add ./vscode for vsc
+| | | 
+* | | commit 7410bbd7b220139649e0e2b08b48c448c393d07f
+| |/  Author: Jacob Pach <jpach@mtech.edu>
+|/|   Date:   Fri Sep 12 07:11:00 2025 -0600
+| |   
+| |       add .gitignore
+| | 
+* | commit 2db5c5927ad8031763f120ef983a580a35ad4137
+|/  Author: Jacob Pach <jpach@mtech.edu>
+|   Date:   Fri Sep 12 07:04:36 2025 -0600
+|   
+|       move main.c to /src
+| 
+* commit ceebb9b545b7469b488918e048b1cd936def0533
+  Author: Jacob Pach <jpach@mtech.edu>
+  Date:   Fri Sep 12 07:01:45 2025 -0600
+  
+      add main.c, makefile
