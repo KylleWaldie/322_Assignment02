@@ -7,19 +7,10 @@ char * AUTHOR_AUTHORSHIP = (char *) "I acknowledge that I have worked on this as
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-//#include "code.c"
-//#include "code2.c"
-#include "include/math_ops.c"
+#include "math_ops.h"
 
 //#include "tests\tests.c"
 // ----------------- MAIN PROGRAM -----------------
-
-
-float sub(float a, float b)
-{
-    return a - b;
-}
-
 
 int main(int argc, char *argv[]) 
 {
@@ -30,6 +21,15 @@ int main(int argc, char *argv[])
 // "args": ["--subtraction", "5", "3.0"] , // argues! attention not ["--subtraction 5 3.0"] <-- whole string in argv[1]!!!
 // etc.
 
+    float angle = 45.0;       // degrees
+    int steps = 10;           // number of terms in Taylor series
+
+    float sin_result = my_sin(angle, steps);
+    float cos_result = my_cos(angle, steps);
+
+    printf("sin(%.1f) = %.6f\n", angle, sin_result);
+    printf("cos(%.1f) = %.6f\n", angle, cos_result);
+    
     int failed_tests  = 0;
 
     printf("%s\n", argv[0]);
