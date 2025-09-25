@@ -21,22 +21,18 @@ int main(int argc, char *argv[])
 // "args": ["--subtraction", "5", "3.0"] , // argues! attention not ["--subtraction 5 3.0"] <-- whole string in argv[1]!!!
 // etc.
 
-    float angle = 45.0;       // degrees
+    float angle_deg = 45.0;       // degrees
+    float angle_rad = angle_deg * 3.14159265358979323846 / 180.0;
     int steps = 10;           // number of terms in Taylor series
 
-    float sin_result = my_sin(angle, steps);
-    float cos_result = my_cos(angle, steps);
+    float sin_result = sin(angle_rad, steps);
+    float cos_result = cos(angle_rad, steps);
 
-    printf("sin(%.1f) = %.6f\n", angle, sin_result);
-    printf("cos(%.1f) = %.6f\n", angle, cos_result);
-    
+    printf("sin(%.1f) = %.6f\n", angle_deg, sin_result);
+    printf("cos(%.1f) = %.6f\n", angle_deg, cos_result);
+
     int failed_tests  = 0;
 
-    printf("%s\n", argv[0]);
-    printf("%s\n", argv[1]);
-    printf("%s\n", argv[2]);
-    printf("%s\n", argv[3]);
-    printf("%f\n", atof(argv[2]) );
 
     if (argc > 1 )
     {

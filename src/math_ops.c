@@ -43,7 +43,7 @@ float factorial(int n)
     return result;
 }
 
-float sin(int x, int steps)
+float sin(float x, int steps)
 {
     float result = 0.0;
 
