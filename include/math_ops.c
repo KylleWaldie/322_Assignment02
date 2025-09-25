@@ -40,27 +40,18 @@ float factorial(int n)
 
 float sin(int x, int steps)
 {
-    return 1.0;
+    float result = 0.0;
+
+    for (int n = 0; n < steps; ++n) {
+        int exponent = 2 * n + 1;
+        double term = (pow(-1, n) * pow(x, exponent)) / factorial(exponent);
+        result += term;
+    }
+    return result;
+
 }
 
 float cos(int x, int steps)
 {
-    float result = 0.0;
-
-    for (int n = 0; n < steps; n++)
-    {
-        // (-1)^n
-        float sign = (n % 2 == 0) ? 1.0 : -1.0;
-
-        // x^(2n)
-        float numerator = pow(x, 2 * n);
-
-        // (2n)!
-        float denominator = factorial(2 * n);
-
-        // Add term
-        result += sign * (numerator / denominator);
-    }
-
-    return result;
+    //Impliment soon
 }
