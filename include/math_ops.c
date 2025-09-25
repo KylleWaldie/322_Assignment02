@@ -51,7 +51,24 @@ float sin(int x, int steps)
 
 }
 
-float cos(int x, int steps)
+float cos(float x, int steps)
 {
-    //Impliment soon
+    float result = 0.0;
+
+    for (int n = 0; n < steps; n++)
+    {
+        // (-1)^n
+        float sign = (n % 2 == 0) ? 1.0 : -1.0;
+
+        // x^(2n)
+        float numerator = pow(x, 2 * n);
+
+        // (2n)!
+        float denominator = factorial(2 * n);
+
+        // Add term
+        result += sign * (numerator / denominator);
+    }
+
+    return result;
 }
